@@ -1,0 +1,40 @@
+body{
+    border: 7px solid rgb(rgb(221, 252, 110));
+    border-radius: 2px;
+    background: rgb(175,252,119);
+    background: radial-gradient(circle, rgba(175,252,119,1) 6%, rgba(233,228,148,1) 100%);
+    margin-left: 300px;
+    margin-right: 200px;
+}
+
+
+.container{
+     background-color: rgb(33, 224, 62); 
+    margin: 155px 145px 10px 100px;
+    border: 20px solid rgb(7, 4, 4);
+    border-color: black;
+    border-radius: 10px;
+    border-style: ridge;
+    text-align: center;
+
+}
+
+.group{
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+    text-decoration-color: rgb(24, 44, 8);
+    font-family: 'Brush Script MT', cursive;
+
+}
+
+button{
+    color: rgb(222, 251, 160);
+    background-color: rgb(191, 151, 228);
+}
+a:hover{
+    color:rgb(255, 153, 21);
+}
+
